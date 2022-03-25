@@ -60,7 +60,7 @@ Economic Anthropology 2
 {{< tdopen >}}
 
 
-Rubin, Gayle. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Traffic in Women: Notes on the "Political Economy" of Sex (PDF - 5.1MB)](https://genderstudiesgroupdu.files.wordpress.com/2014/08/the-rraffic-in-women.pdf).
+Rubin, Gayle. [The Traffic in Women: Notes on the "Political Economy" of Sex (PDF - 5.1MB)](https://genderstudiesgroupdu.files.wordpress.com/2014/08/the-rraffic-in-women.pdf).
 
 [Notes on Gayle Rubin's "The Traffic in Women" (PDF)]({{< baseurl >}}/resources/mit24_201s16_gayle_notes)
 
@@ -208,7 +208,7 @@ Boyer, Anne. "[Data's Work is Never Done](https://www.guernicamag.com/daily/anne
 
 Nussbaum, Martha. "Justice." In _Examined Life: Excursions with Contemporary Thinkers_. Edited by Astra Taylor. The New Press, 2009. ISBN: 9781595584472. \[Preview with [Google Books](http://books.google.com/books?id=-qX-Q281tzkC&pg=PA115=onepage)\]
 
-Smith, Andrea. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Heteropatriarchy and the Three Pillars of White Supremacy: Rethinking Women of Color Organizing." (PDF - 3.1MB)](http://collectiveliberation.org/wp-content/uploads/2013/01/Smith_Heteropatriarchy_3_Pillars_of_White_Supremacy.pdf) In _Color of Violence: The Incite! Anthology_. Edited by Incite! Women of Color Against Violence. Duke University Press Books, 2016. ISBN: 9780822362951.
+Smith, Andrea. ["Heteropatriarchy and the Three Pillars of White Supremacy: Rethinking Women of Color Organizing." (PDF - 3.1MB)](http://collectiveliberation.org/wp-content/uploads/2013/01/Smith_Heteropatriarchy_3_Pillars_of_White_Supremacy.pdf) In _Color of Violence: The Incite! Anthology_. Edited by Incite! Women of Color Against Violence. Duke University Press Books, 2016. ISBN: 9780822362951.
 
 Kittay, Eva Feder. "[Taking Dependency Seriously: The Family and Medical Leave Act Considered in Light of the Social Organization of Dependency Work and Gender Equality](http://dx.doi.org/10.1111/j.1527-2001.1995.tb01351.x)." _Hypatia: A Journal of Feminist Philosophy_ 10, no. 1 (1995): 8–29.
 
@@ -348,7 +348,7 @@ Slavery and the Slave Trade
 
 Douglass, Frederick. Chapters XIV–XVII in [_My Bondage and My Freedom_](http://docsouth.unc.edu/neh/douglass55/douglass55.html#p185). CreateSpace Independent Publishing Platform, 2015. ISBN: 9781519423566.
 
-Anderson, Elizabeth. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Social Movements, Experiments in Living, and Moral Progress: Case Studies from Britain's Abolition of Slavery." (PDF)](http://kuscholarworks.ku.edu/bitstream/handle/1808/14787/Anderson_Social_Movements.pdf?sequence=1&isAllowed=y) The Lindley Lecture, The University of Kansas. February 11, 2014.
+Anderson, Elizabeth. ["Social Movements, Experiments in Living, and Moral Progress: Case Studies from Britain's Abolition of Slavery." (PDF)](http://kuscholarworks.ku.edu/bitstream/handle/1808/14787/Anderson_Social_Movements.pdf?sequence=1&isAllowed=y) The Lindley Lecture, The University of Kansas. February 11, 2014.
 
 
 {{< tdclose >}}

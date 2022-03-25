@@ -22,7 +22,7 @@ Martin, Bonnie. "[Slavery's Invisible Engine: Mortgaging Human Property](http://
 
 Barber, Elizabeth Wayland. _Women's Work: The First 20,000 Years - Women, Cloth, and Society in Early Times_. W. W. Norton & Company, 1995. ISBN: 9780393313482.
 
-Delphy, Christine. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Main Enemy." (PDF)](https://libcom.org/files/delphymainenemy.pdf) _Feminist Issues_ (1980).
+Delphy, Christine. ["The Main Enemy." (PDF)](https://libcom.org/files/delphymainenemy.pdf) _Feminist Issues_ (1980).
 
 Boyer, Anne. "[What Tender Possibilities: Two Mediations on the Oikos, Part One](http://digitallabor.commons.gc.cuny.edu/2014/03/05/what-tender-possibilities-two-meditations-on-the-oikos/)." _Digital Labor Working Group_, March 2014.
 

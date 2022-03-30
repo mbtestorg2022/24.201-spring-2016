@@ -5,6 +5,7 @@ description: Guidelines for an assignment to attend an event related to the cour
   there.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/152580352de4b3d8a52174396887f0fc_MIT24_201S16_EventResponse.pdf
 file_type: application/pdf
+parent_uid: 57499839-e0a9-d38f-e743-e3fef9391d6f
 resourcetype: Document
 title: Guidelines for Event Response Paper
 uid: 15258035-2de4-b3d8-a521-74396887f0fc
